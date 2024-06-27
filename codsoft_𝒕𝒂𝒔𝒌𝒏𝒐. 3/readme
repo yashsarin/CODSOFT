@@ -1,0 +1,7 @@
+Introducing our Simple Calculator application, designed to perform essential arithmetic operations effortlessly. This project showcases a user-friendly interface where users can input numbers and choose their desired operation.
+
+Key Features:
+1. Basic Operations: Addition, subtraction, multiplication, and division.
+2. User Input: Prompt users to input two numbers.
+3. Operation Choice: Allow users to select an operation (add, subtract, multiply, divide).
+4. Result Display: Calculate and display the result instantly.
